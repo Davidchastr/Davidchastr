@@ -64,10 +64,10 @@ I am a QA Engineer from Russia, ensuring the quality of web applications through
 ![Agile](https://img.shields.io/badge/-Agile-purple)
 ![Scrum](https://img.shields.io/badge/-Scrum-purple)
 ![Docker](https://img.shields.io/badge/-Docker-purple)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-purple)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-purple)ц
 ![AWS](https://img.shields.io/badge/-AWS-purple)
 
 ---
 
 ### 📊 My GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Davidchastr&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidchastr)](https://github.com/anuraghazra/github-readme-stats)
