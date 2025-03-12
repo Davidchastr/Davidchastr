@@ -21,11 +21,10 @@
 ### :man_technologist: About Me :  
 I am a QA Engineer from Russia, ensuring the quality of web applications through manual and automated testing.  
 
-- 🔍 I’m working as a QA Engineer, contributing to both manual and automated testing.  
-- 🌱 Exploring Test Automation and Technical Content Writing.  
-- ⚡ In my free time, I practice writing automated tests, explore new testing tools, and read tech articles.  
-- 📬 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Davidchastr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fjdsnek)  
-
+- 🔍 **I’m working as a QA Engineer,** contributing to both manual and automated testing.  
+- 🌱 **Exploring** Test Automation and Technical Content Writing.  
+- ⚡ **In my free time,** I practice writing automated tests, explore new testing tools, and read tech articles.  
+- 📬 **How to reach me:** [![Telegram Badge](https://img.shields.io/badge/-Davidchastr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fjdsnek) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qadavid/) [![Email Badge](https://img.shields.io/badge/-super.inker@yandex.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:super.inker@yandex.ru)
 ---
 ## 📌 Мои проекты
 
