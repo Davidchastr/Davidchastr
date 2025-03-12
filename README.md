@@ -27,6 +27,17 @@ I am a QA Engineer from Russia, ensuring the quality of web applications through
 - 📬 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Davidchastr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fjdsnek)  
 
 ---
+## 📌 My Projects  
+
+### 📝 ToDo List Testing  
+🔹 **Описание:** Тестирование веб-приложения ToDo List, включая ручное и автоматизированное тестирование.  
+🔹 **Что сделано:**  
+- Составлены [тест-кейсы](https://github.com/Davidchastr/todo-list/blob/main/test_cases.md)  
+- Найдены и описаны [баги](https://github.com/Davidchastr/todo-list/blob/main/bug_reports.md)  
+- Проведено тестирование UI, API и XSS-уязвимостей  
+
+🔹 **Репозиторий:** [todo-list](https://github.com/Davidchastr/todo-list)  
+🔹 **Развернуто на Render:** [ToDo List](https://davidchamytodo.onrender.com) 
 
 ## 🛠 QA Engineer Skills  
 
