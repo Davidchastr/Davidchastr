@@ -29,12 +29,14 @@ I am a QA Engineer from Russia, ensuring the quality of web applications through
 ---
 ## 📌 Мои проекты
 
-### 📝 ToDo List Testing  
-🔹 **Описание:** Тестирование веб-приложения ToDo List, включая ручное и автоматизированное тестирование.  
-🔹 **Что сделано:**  
-- Составлены [тест-кейсы](https://github.com/Davidchastr/todo-list/blob/main/docs/test_cases.md)
-- Найдены и описаны [баги](https://github.com/Davidchastr/todo-list/blob/main/docs/bug_reports.md)
-- Проведено тестирование UI, API и XSS-уязвимостей  
+### 📝 ToDo List Testing
+🔹 **Описание:**  
+Тестирование веб-приложения ToDo List. Я разработал веб-ресурс [ToDo List](https://davidchamytodo.onrender.com/) и намеренно внедрил в его код ошибки, чтобы провести серию испытаний.
+
+🔹 **Что сделано:**
+- Составлены [тест-кейсы](https://github.com/Davidchastr/todo-list/blob/main/docs/test_cases.md).  
+- Найдены и описаны [баги](https://github.com/Davidchastr/todo-list/blob/main/docs/bug_reports.md).  
+- Проведено тестирование UI, API и уязвимостей XSS.
 
 🔹 **Репозиторий:** [todo-list](https://github.com/Davidchastr/todo-list)  
 🔹 **Развернуто на Render:** [ToDo List](https://davidchamytodo.onrender.com) 
