@@ -32,7 +32,7 @@ I am a QA Engineer from Russia, ensuring the quality of web applications through
 ### 📝 ToDo List Testing  
 🔹 **Описание:** Тестирование веб-приложения ToDo List, включая ручное и автоматизированное тестирование.  
 🔹 **Что сделано:**  
-- Составлены [тест-кейсы]([docs/bug_reports.md](https://github.com/Davidchastr/todo-list/blob/main/docs/bug_reports.md))
+- Составлены [тест-кейсы](https://github.com/Davidchastr/todo-list/blob/main/docs/bug_reports.md)
 - Найдены и описаны [баги](https://github.com/Davidchastr/todo-list/blob/main/bug_reports.md)  
 - Проведено тестирование UI, API и XSS-уязвимостей  
 
