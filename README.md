@@ -48,21 +48,10 @@ I am a QA Engineer from Russia, ensuring the quality of web applications through
 ![API Testing](https://img.shields.io/badge/-API%20Testing-blue)
 ![Mobile & Web Testing](https://img.shields.io/badge/-Mobile%20%26%20Web%20Testing-blue)
 
-### 🔹 Test Automation  
-![Python](https://img.shields.io/badge/-Python-yellow)
-![Selenium](https://img.shields.io/badge/-Selenium-yellow)
-![Pytest](https://img.shields.io/badge/-Pytest-yellow)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Playwright](https://img.shields.io/badge/-Playwright-yellow)
-![Cypress](https://img.shields.io/badge/-Cypress-yellow)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-yellow)
-![Git](https://img.shields.io/badge/-Git-yellow)
 
 ### 🔹 Databases & Backend Testing  
 ![SQL](https://img.shields.io/badge/-SQL-green)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-green)
-![MySQL](https://img.shields.io/badge/-MySQL-green)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 ![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-green)
 
 ### 🔹 Performance & Security Testing  
